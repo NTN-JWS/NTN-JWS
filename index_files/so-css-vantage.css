@@ -1,0 +1,447 @@
+.title-news {
+    font-weight: 300;
+    font-size: 48px;
+    border: none;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2.title-news {
+    font-weight: 300;
+    margin-top: 23px;
+    margin-bottom: 32px;
+    font-size: 48px;
+}
+
+.title-news:before {
+    margin: 0 auto;
+    background: #bcc3c8;
+    content: "";
+    display: block;
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    width: 90%;
+    left: 0;
+    right: 0;
+}
+
+.title-news span {
+    background: #fcfcfc;
+    padding: 0 15px;
+    position: relative;
+    z-index: 1;
+}
+
+.fr-menu {
+  float: right !important;
+  background-color: #f1f1f1 !important;
+}
+
+#wp-megamenu-item-2310 {
+  float: right !important;
+}
+
+#wp-megamenu-item-2310 > a {
+    background-color: #f1f1f1 !important;
+}
+
+.contact-menu {
+  float: right;
+}
+
+.eshop-menu {
+  float: right;
+}
+
+.blog-menu {
+  float: right;
+  text-align: right;
+}
+
+#theme-attribution {
+display: none;
+}
+
+#footer-texthead h2 {
+  color:#fff;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+#footer-texthead a {
+  text-decoration: none;
+  line-height: 22px
+}
+
+#footer-texthead a:hover {
+  color: #028ed8;
+  text-decoration: underline;
+}
+
+
+.main-navigation ul li:hover > a, .main-navigation ul li:focus > a, #search-icon #search-icon-icon:hover {
+   background: url(https://ntn.ca/wp-content/uploads/2018/10/blue-line.png);
+    background-repeat: repeat-x;
+    background-size: 20 4px;
+  color: #5b5b5b;
+  background-position: center bottom; 
+  -webkit-transition-property: none;
+-moz-transition-property: none;
+-o-transition-property: none;
+transition-property: none;
+}
+
+.main-navigation ul ul {
+    visibility: visible !important;
+}
+
+#home-header h2 {
+  font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+  font-weight:500 !important;
+  line-height:30px;
+  margin:0px;
+}
+
+.maxbutton-1.maxbutton.maxbutton-ntnbearing {
+  margin-bottom: 8px;
+  font-family: Roboto !important;
+}
+
+.maxbutton-2.maxbutton.maxbutton-canada-customer {
+  margin-bottom: 8px;
+  font-family: Roboto !important;
+}
+
+.maxbutton-3.maxbutton.maxbutton-news {
+  margin-bottom: 8px;
+  font-family: Roboto !important;
+}
+
+.maxbutton-4.maxbutton.maxbutton-success {
+  margin-bottom: 35px;
+  font-family: Roboto !important;
+}
+
+
+
+
+
+.maxbutton-4.maxbutton.maxbutton-success:before {
+  content: url('https://ntn.ca/wp-content/uploads/2019/01/email2.svg');
+  float: left;
+  margin-top: 6px;
+  margin-left: 30px;
+  margin-right: -22px;
+}
+
+
+
+
+
+
+
+.mb-item.item-0{
+  float: right;
+}
+
+.mb-item.item-1{
+  float: right;
+}
+
+.mb-item.item-2{
+  float: right;
+}
+
+.mb-item.item-3{
+  float: right;
+}
+
+.maxsocial.maxsocial-1.horizontal {
+  margin-top: -120px 
+}
+
+.textwidget p:last-child {
+  margin-bottom: -20px !important;
+}
+#subfix a {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+#subfix br {
+  display: none !important;
+}
+
+#subfix .subbutt {
+    color: #fff !important;
+    font-family: Roboto !important;
+    font-size: 14px !important;
+    text-align: center !important;
+    font-weight: bold !important;
+    padding-top: 13px !important;
+    line-height: 1em !important;
+    display: block !important;
+    background-color: #0058a9 !important;
+    width: 100px !important;
+  height: 40px !important;
+}
+
+#subfix .subbutt2 {
+    color: #fff !important;
+    font-family: Roboto !important;
+    font-size: 14px !important;
+    text-align: center !important;
+    font-weight: bold !important;
+    padding-top: 13px !important;
+    line-height: 1em !important;
+    display: block !important;
+    background-color: #0058a9 !important;
+    width: 200px !important;
+  height: 40px !important;
+}
+
+#subfix .subbutt:hover {
+    background-color: #0080c7 !important;
+}
+
+#subfix .subbutt2:hover {
+    background-color: #0080c7 !important;
+}
+
+.wp-megamenu-wrap .wpmm-nav-wrap > ul.wp-megamenu li.wpmm_mega_menu ul.wp-megamenu-sub-menu {
+  padding-left: 5px;
+}
+
+#wp-megamenu-primary>.wpmm-nav-wrap ul.wp-megamenu h4 {
+  color: #000 !important;
+  letter-spacing:3px !important;
+}
+
+#wp-megamenu-primary>.wpmm-nav-wrap ul.wp-megamenu h3 {
+  color: #000 !important;
+  font-size: 20px;
+  font-weight: 500 !important;
+}
+
+#wp-megamenu-primary>.wpmm-nav-wrap ul.wp-megamenu p {
+  color: #4c4c4c !important;
+}
+
+#wp-megamenu-primary>.wpmm-nav-wrap ul.wp-megamenu b, strong {
+  color: #4c4c4c !important;
+  font-size: 16px !important;
+}
+
+#wp-megamenu-primary>.wpmm-nav-wrap ul.wp-megamenu a:hover {
+  color: #003d9c !important;
+}
+
+.wp-megamenu-wrap .wpmm-nav-wrap > ul.wp-megamenu > li.wpmm_mega_menu > ul.wp-megamenu-sub-menu > li.wpmm-row > ul.wp-megamenu-sub-menu > li:last-child {
+  background-color: #f1f1f1;
+}
+
+#wp-megamenu-item-6303519549525869595 .wp-megamenu-wrap .wpmm-nav-wrap > ul.wp-megamenu > li.wpmm_mega_menu > ul.wp-megamenu-sub-menu > li.wpmm-row > ul.wp-megamenu-sub-menu > li:last-child {
+  background-color: #fff !important;
+}
+
+.main-navigation .fa.fa-external-link.with-margin {
+    color: #008adf;
+}
+
+.main-navigation .fa.fa-external-link.with-margin:hover {
+    color: #003d9c;
+}
+
+#sensors-head h3 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+#sensors-head hr {
+  width: 100px;
+}
+
+#highlight p {
+  color: #fff;
+  font-size: 16px;
+  height: 35px;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+
+
+#highlight2 p {
+  color: #fff;
+  font-size: 16px;
+  height: 65px;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+
+#highlight3 p {
+  color: #fff;
+  font-size: 16px;
+  height: 85px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right:15px;
+}
+
+#highlight4 p {
+  color: #fff;
+  font-size: 16px;
+  height: 105px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right:15px;
+}
+
+#below-footer ul li {
+    display: inline-block;
+      padding: 10px;
+    color: #474747;
+    font-size: 13px;
+}
+
+#below-footer a {
+    color: #474747 !important;
+}
+
+#below-footer a:hover {
+    text-decoration: underline !important;
+}
+
+#colophon {
+  padding-bottom: 0px !important;
+}
+
+hr {
+    margin-bottom: 10px !important;
+  margin-top: 10px !important;
+}
+
+h2 {
+    margin-bottom: 10px !important;
+}
+
+#bottles img {
+height: 65%;
+width: 65%;
+}
+
+#success-title h4 {
+  margin-top: 0px !important;
+}
+
+div#n2-ss-2 .n2-ss-button-container a div:after {
+    background: #fff;
+    content: "\f054";
+    font-family: FontAwesome;
+    color: #008adf;
+    display: inline-block;
+    position: absolute;
+    height: 100%;
+  line-height: 35px;
+    right: 0;
+      top: 0;
+    font-size: 10px;
+  padding-left: 3px;
+    padding-right: 3px;
+}
+
+.n2-ss-layer.n2-ow.mobmainbuttons a div:after {
+    background: #fff;
+    content: "\f054";
+    font-family: FontAwesome;
+    color: #008adf;
+    display: inline-block;
+    position: absolute;
+    height: 100%;
+  line-height: 35px;
+    right: 0;
+      top: 0;
+    font-size: 10px;
+  padding-left: 3px;
+    padding-right: 3px;
+}
+
+#localinks a.anchor {
+    display: block;
+    position: relative;
+    top: -175px;
+    visibility: hidden;
+}
+
+#masthead .hgroup h1, #masthead.masthead-logo-in-menu .logo > h1 {
+    color: #fff;
+}
+
+#respond {
+  display: none;
+}
+
+.cmloc-submit-btn {
+  margin-left: 15px;
+  margin-top: -12px !important;
+}
+
+.dashicons {
+    display: inline-block;
+  color: white;
+  font-family: Arial;
+    background-color: rgba(2, 142, 216, 1);
+    width: 100px;
+    height: 24px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.dashicons-search:before {
+    content: "Search" !important;
+}
+
+.cmloc-filter .cmloc-field-search {
+    display: inline-block;
+    width: 216px !important;
+}
+
+@media screen and (max-width: 800px) {
+    h2 {
+        font-size: 24px !important;
+    }
+  #search-icon #search-icon-icon .vantage-icon-search {
+    display: none;
+  }
+
+.cmloc-layout-right .cmloc-location-index-map {
+    width: 100% !important;
+}
+  
+.cmloc-location-snippet h2 {
+    font-size: 18px !important;
+}
+  
+.cmloc-layout-right {
+    display: flex !important;
+    flex-direction: column !important;
+}
+  .cmloc-layout-right > .cmloc-location-index-map {order: 2; } /* Will be displayed second */
+  .cmloc-layout-right > .cmloc-locations-archive-list-wrapper {order: 1; } /* Will be displayed first  */
+  
+  .cmloc-filter .cmloc-field-search {
+    width: 335px !important;
+}
+  
+  .cmloc-submit-btn {
+  margin-left: -75px;
+  margin-top: -14px !important;
+}
+}
